@@ -1,4 +1,4 @@
 void start()
 {
-	print("merhaba dünya")
+	print("merhaba")
 }
