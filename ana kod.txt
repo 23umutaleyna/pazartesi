@@ -2,7 +2,7 @@ void start()
 {
 	print("merhaba")
 	print("merhaba")
-	print("merhaba")
+	print("merhaba")dsfsdfsdfsdfsdfsdfsdf
 }
 }
 }
